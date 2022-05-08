@@ -19,7 +19,7 @@ This application provides captions for the images uploaded my the users and also
 
 1. Clone this repository in your local system.
 3. Install all the libraries mentioned in the [requirements.txt]  file with the command `pip3 install -r requirements.txt`.
-
+4. Train the model using our ipynb file or download trained model weights from link https://drive.google.com/drive/folders/1w1z7hCEQ8rC2hNuO_37ksR2OSVUT8rkj?usp=sharing
 5. Open your terminal/command prompt from your project directory and run the `app - Copy.py` file by executing the command `python app - Copy.py`.
 6. Go to your browser and type `http://127.0.0.1:5000/` in the address bar.
 7. That's it.... You are good to go
